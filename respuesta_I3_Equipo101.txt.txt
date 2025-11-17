@@ -1,0 +1,10 @@
+Respuestas BETA (No esta, lo hace Ayala):
+
+a: La rama main queda con todos los archivos creados a lo largo de las consignas, es decir, con CPUAlfa.txt, CPUGamma.txt y beta.txt
+b: Si
+c: Cambiar de rama a la rama main con git checkout main. Despues hacer git merge ayala para mergear main con la rama ayala, despues git add. , git commit -m y por ultimo git push
+
+Respuestas GAMMA (Ayala):
+d: Si, la de gamma queda actualizada (no tenemos beta asi que se uso la misma que la de gamma)
+e: Quisimos hacer merge sin haber hecho pull primero, por lo que nos dio un problema de cambios que se pisaban entre si.
+f: Cambiamos de rama a "ayala", hice ipconfig (ifconfig no funciona en windows) >> beta.txt, y luego agregue manualmente el nombre y la hora.
