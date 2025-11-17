@@ -8,3 +8,6 @@ Respuestas GAMMA (Ayala):
 d: Si, la de gamma queda actualizada (no tenemos beta asi que se uso la misma que la de gamma)
 e: Quisimos hacer merge sin haber hecho pull primero, por lo que nos dio un problema de cambios que se pisaban entre si.
 f: Cambiamos de rama a "ayala", hice ipconfig (ifconfig no funciona en windows) >> beta.txt, y luego agregue manualmente el nombre y la hora.
+
+Respuestas ALFA (caneda):
+g: Primero me cambio a la rama "Ayala", después hago un pull para cargar lo que hicieron mis compañeros y uso el comando ipconfig >> beta.txt para ingresar mis datos, agrego el nombre y la hora de forma manual. una vez cargado, uso los comandos git add ., git commit -m y git push
